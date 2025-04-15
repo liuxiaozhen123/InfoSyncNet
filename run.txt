@@ -1,0 +1,10 @@
+conda create -n InfoSyncNet python=3.7
+conda activate InfoSyncNet
+pip install torch==1.8.0+cu111 torchvision==0.9.0+cu111 torchaudio==0.8.0 -f https://download.pytorch.org/whl/torch_stable.html
+conda install pandas
+pip install xlwt
+pip install einops
+pip install opencv-python
+conda install -c conda-forge libjpeg-turbo
+pip install PyTurboJPEG
+pip install seaborn
