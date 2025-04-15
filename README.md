@@ -9,6 +9,9 @@ The required packages can be installed according to the instructions in `run.txt
 ### Pretrain Weights （optional）
 We provide pretrained weight on LRW dataset for evaluation.
 Link of pretrained weights: 
+[Baidu Netdisk](https://pan.baidu.com/s/1HS73SHi7McCpKrXlCkfF5w?pwd=1234)).  
+Extraction code: `1234`   
+
 If you can not access to provided links, please email liuxiaozhen123@gs.zzu.edu.cn
 
 ### 3 Train
